@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile ProjectType="typeDynamicLibrary" ProjectCreator="Intel Fortran" Keyword="Dll" Version="11.0" ProjectIdGuid="{8A19054A-24A2-4F8D-9011-3A01CF51E9EC}">
+	<Configurations>
+		<Configuration Name="Debug|Win32" Command="D:\Project3_3\APCSView\APCSView\bin\Debug\APCSView.exe"/>
+		<Configuration Name="Release|Win32"/></Configurations></VisualStudioUserFile>

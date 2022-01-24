@@ -1,0 +1,41 @@
+data/.hgeol.i
+data/.hgignore.i
+data/APCSView.Designer.vb.i
+data/APCSView.resx.i
+data/APCSView.sln.i
+data/APCSView.vb.i
+data/APCSView.vbproj.i
+data/APCSView.vbproj.user.i
+data/MapBrowser.Designer.vb.i
+data/MapBrowser.resx.i
+data/MapBrowser.vb.i
+data/My Project/Application.Designer.vb.i
+data/My Project/Application.myapp.i
+data/My Project/AssemblyInfo.vb.i
+data/My Project/Resources.Designer.vb.i
+data/My Project/Resources.resx.i
+data/My Project/Settings.Designer.vb.i
+data/My Project/Settings.settings.i
+data/NewLogLat.Designer.vb.i
+data/NewLogLat.resx.i
+data/NewLogLat.vb.i
+data/temp.Designer.vb.i
+data/temp.resx.i
+data/temp.vb.i
+data/Mag.Designer.vb.i
+data/Mag.resx.i
+data/Mag.vb.i
+data/TransProfile.Designer.vb.i
+data/TransProfile.resx.i
+data/TransProfile.vb.i
+data/ApplicationEvents.vb.i
+data/ROWWindow.Designer.vb.i
+data/ROWWindow.resx.i
+data/ROWWindow.vb.i
+data/Splash.jpg.i
+data/Splash.png.i
+data/Splash.psd.i
+data/Splash.psd.d
+data/SplashScreen.Designer.vb.i
+data/SplashScreen.resx.i
+data/SplashScreen.vb.i

@@ -1,0 +1,6 @@
+syntax: glob
+
+bin/*
+VTune/*
+obj/*
+**.suo

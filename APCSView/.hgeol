@@ -1,0 +1,7 @@
+[patterns]
+**.resx = native
+**.vb = native
+**.vbproj* = native
+**.vmyapp = native
+**.settings = native
+**.sln = native
